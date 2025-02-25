@@ -1,0 +1,15 @@
+{
+  "name": "getsteamprice",
+  "version": "1.0.0",
+  "description": "Test app get steam price by steam-market-fetcher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "steam-market-fetcher": "^3.0.1"
+  }
+}
