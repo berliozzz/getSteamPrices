@@ -1,0 +1,1 @@
+export const mongooseUri = 'mongodb://localhost/steamPricesDB'
